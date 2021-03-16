@@ -1,0 +1,39 @@
+.single-product{
+    display: flex;
+    background-color: #ffffff;
+    margin: 10px 0px;
+    color: #000000;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.imgBox{
+    padding: 5px;
+}
+.single-product img{
+    width: 200px;
+    box-shadow: #0000001f 0px 1px 3px, #0000003d 0px 1px 2px;
+}
+.single-product content{
+    width: 60%;
+}
+.content{
+    text-align: left;
+    margin-left: 5%;
+}
+.content p{
+    line-height: 5px;
+}
+.content h4{
+    text-decoration: none;
+    font-size: 18px;
+}
+.content button{
+    width: 200px;
+    outline: none;
+    border: none;
+    background-color: darkslategray;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}

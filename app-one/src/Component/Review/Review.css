@@ -1,0 +1,7 @@
+.review-container{
+    margin-top: 100px;
+    display: flex;
+}
+.reviewLeft{
+    width: 70%;
+}

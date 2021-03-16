@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    background-color: #ffffff;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 15px 10px -10px;
+}
+.logo{
+    width: 5.5em;
+}
+.head-nav{
+    display: flex;
+    background-color: #ffffff;
+    padding: 10px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 60px;
+}
+.Nav-items{
+    margin-left: 30%;
+}
+.Nav-items a{
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 20px;
+    color: #000000;
+}
+.inputField input{
+    width: 200px;
+    padding: 10px;
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    outline: none;
+    border: none;
+}
+.inputField button{
+    padding: 10px;
+    outline: none;
+    border: none;
+    background-color: darkslategray;
+    color: #fff;
+    cursor: pointer;
+}

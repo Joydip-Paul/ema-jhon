@@ -1,0 +1,9 @@
+.checkout{
+    width: 200px;
+    outline: none;
+    border: none;
+    background-color: darkslategray;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
